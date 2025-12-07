@@ -13,5 +13,3 @@ Apasionada por combinar la ciencia de datos y la ingeniería para crear solucion
 ## Habilidades
 Python · SQL · Power BI · Excel · Pandas
 
----
-
