@@ -1,7 +1,5 @@
 # Hello there, I'm Cata Polo
 
-🎓 Estudiante de Ciencia de Datos e Ingeniería Mecánica  
-📍 Pontificia Universidad Javeriana  
 🏎️ Fundadora del Semillero de Investigación del Equipo Javeriano Formula SAE  
 📧 polocatalina03@gmail.com  
 
